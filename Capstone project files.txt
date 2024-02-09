@@ -1,0 +1,8 @@
+github URL: https://github.com/nikhilthammali/reactjs-app.git
+
+deployed site URL: http://43.204.93.2:3000
+
+Docker images: 1.reactjsimg
+               2.nginx
+               3.node
+               4.nikhilthammali/reactjs-dev
